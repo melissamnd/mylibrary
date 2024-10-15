@@ -1,7 +1,8 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
 
-## v0.0.0 (15/10/2024)
+## v0.0.0 (2024-10-15)
 
-- First release of `mylibrary`!
+### Unknown
+
+* First commit ([`c695324`](https://github.com/melissamnd/mylibrary/commit/c6953249e52b3caa54551788efe05ed2ff0918f3))
